@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - User Interaction
+  - Enemic
+  - Mapa
+  - Mob
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Personatges
+  - 
+  - 
+  - 
+  - Objectes Invisibles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Detalls Mapa
+    uniqueID: 502836033
+    locked: 0
+  - name: Personatges
+    uniqueID: 3323062023
+    locked: 0
+  - name: World
+    uniqueID: 969864591
+    locked: 0
+  - name: UI
+    uniqueID: 2714926561
+    locked: 0

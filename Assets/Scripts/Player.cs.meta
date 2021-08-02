@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 398795a1574ce2f43936c95e05526e54
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - resaltarCelaMoviment: {fileID: 5748006509439596144, guid: 98cb650884e53394e9728a3e245be147, type: 3}
+  - resaltarCelaAtac: {fileID: 4260223678786788819, guid: 7fb4465437e17c5419b1139463596fcc, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
